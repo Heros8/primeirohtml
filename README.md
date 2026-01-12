@@ -19,6 +19,6 @@ O foco do projeto é aprender a **estrutura básica de uma página web**, organi
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Heros Emanuel**
